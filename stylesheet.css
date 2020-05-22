@@ -1,0 +1,217 @@
+﻿body
+{
+color: black;
+font-size: 18px;
+font-family: Constantia;
+background-color: #ffcf79;
+margin: 20px;
+}
+
+h1 {
+font-size:50px;
+font-family: Cambria;
+text-decoration: none;
+text-align: center;
+}
+
+h2 {
+font-size: 1.4em;
+text-align: left;
+}
+
+
+
+#nav {
+
+font-size: 32px;
+font-weight: bold;
+font-family: Cambria;
+border-bottom: 5px solid aqua;
+border-top: 5px solid aqua;
+border-radius: 10px;
+width: 650px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#nav ul {
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-align: center;
+}
+
+#nav li {
+display: inline;
+padding: 15px;
+vertical-align: middle-1;
+}
+
+#nav a {
+color: rgb(26, 176,21);
+//color: rgb(200, 150,56);
+text-decoration: none;
+vertical-align: middle;
+padding: 5px 5px 5px 5px;
+}
+
+#nav a:hover {
+color: white;
+text-decoration: none;
+background-color: aqua;
+}
+
+p.paragraph {
+color: green;
+font-size: 18px;
+line-height: 1.5em;
+Padding: 20px 20px 20px 20px;
+margin: 10;
+text-align: left;
+
+}
+
+#para4homepage {
+color: black;
+font-size: 20px;
+line-height: 1.5em;
+padding: 20px 20px 20px 20px;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-radius: 10px;
+margin: 0;
+margin-right: 40px;
+margin-left: 40px;
+background-image: url(wave.jpg);
+
+}
+
+.imagec {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 3px;
+background-color: silver;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-radius: 5px;
+}
+
+.blue {
+color: blue;
+font-size: 20px;
+}
+
+.white {
+color: white;
+font-size: 20px;
+font-style:italic;
+}
+
+.highlight {
+background-color: rgb(49, 206, 187);
+}
+
+.title {
+font-size: 25px;
+color: black;
+margin-left: 20;
+}
+
+.titletank {
+font-size: 25px;
+color: black;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+a {
+color: rgb(64,128,128);
+text-decoration: none;
+
+}
+
+a:hover {
+color: #F15A51;
+text-decoration: none;
+
+}
+
+#divtank {
+color: black;
+font-size: 22px;
+text-align: center;
+margin-right: 400px;
+margin-left: 400px;
+}
+
+#divmeme {
+color: black;
+font-size: 22px;
+text-align: center;
+font-weight: bold;
+
+}
+
+#div1 {
+position: absolute;
+left:40px;
+top: 350px;
+}
+
+#div2 {
+position: absolute;
+right:40px;
+top: 350px;
+}
+
+#div3 {
+position: absolute;
+left:40px;
+top: 310px;
+}
+
+#div4 {
+position: absolute;
+right:60px;
+top: 300px;
+}
+
+#div5 {
+position: absolute;
+left:40px;
+top: 580px;
+}
+
+#div6 {
+position: absolute;
+right:110px;
+top: 575px;
+}
+
+#div7 {
+position: absolute;
+left:40px;
+top: 890px;
+}
+
+#div8 {
+position: absolute;
+right:60px;
+top: 850px;
+}
+
+
+i.fancy {
+font-family: Curlz MT;
+}
+
+k.iniciale {
+font-family: Curlz MT, Collona MT, Brush Script Std;
+font-size: 200%;
+}
+
+
